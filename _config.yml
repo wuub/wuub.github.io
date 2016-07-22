@@ -6,8 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: wuub.github.io
-email: github-pages@wuub.remove.those.words.net
+title: wuub on the interwebz
 description: > # this means to ignore newlines until "baseurl:"
   Random ramblings on the Interwebz
 baseurl: "" # the subpath of your site, e.g. /blog
